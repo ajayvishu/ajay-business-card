@@ -1,0 +1,25 @@
+{
+  "name": "ajay-business-card",
+  "version": "1.0.4",
+  "description": "ajay vishwakarma (@ajay)'s business card",
+  "type": "module",
+  "bin": {
+    "ajay-business-card": "./bin/business-card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajayvishu/ajay-business-card.git"
+  },
+  "keywords": [
+    "cli",
+    "tool",
+	"business card",
+	"npx",
+  ],
+  "author": "ajay vishwakarma",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0"
+  }
+}
